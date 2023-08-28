@@ -1,0 +1,45 @@
+.Tokyopict{
+
+    position: fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    z-index: 999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Tokyobg{
+    background-color: rgba(0, 0, 0, 0.767);
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+
+.Tokyocontent{
+
+    position: relative;
+    max-width: 500px;
+    background-color: black;
+
+}
+
+.Tokyocontent img{
+
+    display: block;
+    max-width: 100%;
+    height: 40%;
+    margin-right: auto;
+    margin-right: auto;
+}
+
+.Tokyocontent p{
+
+    color:white;
+    text-align: center;
+    
+}

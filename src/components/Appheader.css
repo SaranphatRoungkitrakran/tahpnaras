@@ -1,0 +1,15 @@
+.app_header{
+
+    border-bottom: 1px solid purple;
+    height :50px;
+    display:flex;
+    justify-content: center;
+    align-content: center;
+  
+  }
+  
+  .logopict{
+  
+    height:40px;
+    width:150px;
+  }
